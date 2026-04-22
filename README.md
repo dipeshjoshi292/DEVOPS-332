@@ -160,15 +160,6 @@ Automation ensures:
 | Jenkins | ██░░░░░░░ |
 
 ---
-
-# 📈 Repository Activity
-
-<p align="center">
-  <img src = "https://github-readme-activity-graph.vercel.app/graph?username=snehasuman019&theme=tokyo-night&area=true&hide_border=true"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
